@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kelmaker
-- 👀 I’m interested in ... scrath 
-- 🌱 I’m currently learning ...  scrath
+- 👀 I’m interested in ... C++ 
+- 🌱 I’m currently learning ...  C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 
 <!---
 kelmaker/kelmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
