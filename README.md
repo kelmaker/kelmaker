@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelmaker
-- 👀 I’m interested in ... C++ 
-- 🌱 I’m currently learning ...  C++
+- 👀 I’m interested in ... ZIG 
+- 🌱 I’m currently learning ...  ZIG
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
